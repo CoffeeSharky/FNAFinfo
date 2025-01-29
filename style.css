@@ -1,0 +1,124 @@
+html {
+  height: 100%;  
+  width: 100%;
+}
+body {
+
+  background-color: #000000;
+  font-family: Courier New , Monospace;
+  margin: 3;
+  padding: 2;
+  color: #fef1f1;
+  letter-spacing: 1.5px;
+}  
+header {
+  background-color: #f0000c;
+  padding: 20px;
+  text-align: center;
+}
+h1 {
+  border: 2px solid white;
+  outline: #e23232 solid 10px;
+  margin: 10px;  
+  padding: 10px;
+  text-align: center;
+  color:#ffffff;
+  letter-spacing: 3px;
+  font-family: Copperplate , Fantasy;
+}
+h2 {
+  color:#ffffff;
+  
+}
+.caption {
+  font-size: 14px;
+  color: #e4e2e2;
+  text-align: center;
+  
+}
+#gameover {
+  float:left;
+  margin:10px;
+  
+}
+#fill {
+  width: 100%;
+  height: auto;
+}
+#cams {
+  float:right;
+  margin: 10px;
+}
+#room {
+  float:left;
+  margin:10px;
+}
+#wiki{
+  background-color: #4d0004;
+  color:#ffffff;
+}
+#lore{
+  width: 1083px;
+  min-height: 615px;
+}html {
+  height: 100%;  
+  width: 100%;
+}
+body {
+  background-color: #000000;
+  font-family: Courier New , Monospace;
+  margin: 3;
+  padding: 2;
+  color: #fef1f1;
+  letter-spacing: 1.5px;
+}  
+header {
+  background-color: #f0000c;
+  padding: 20px;
+  text-align: center;
+}
+h1 {
+  border: 2px solid white;
+  outline: #e23232 solid 10px;
+  margin: 10px;  
+  padding: 10px;
+  text-align: center;
+  color:#ffffff;
+  letter-spacing: 3px;
+  font-family: Copperplate , Fantasy;
+}
+h2 {
+  color:#ffffff;
+  
+}
+.caption {
+  font-size: 14px;
+  color: #e4e2e2;
+  text-align: center;
+  
+}
+#gameover {
+  float:left;
+  margin:10px;
+  
+}
+#fill {
+  width: 100%;
+  height: auto;
+}
+#cams {
+  float:right;
+  margin: 10px;
+}
+#room {
+  float:left;
+  margin:10px;
+}
+#wiki{
+  background-color: #4d0004;
+  color:#ffffff;
+}
+#lore{
+  width: 1083px;
+  min-height: 615px;
+}
